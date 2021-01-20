@@ -10,7 +10,4 @@ The descriptions and details of all the files are documented within the files th
 
 The files work as such:
 
-loop.py --> Parameters_[system].py --> onePlotAll.py --> plot.html
-                                          ^
-                                          |
-                                       figure.py
+loop.py --> Parameters_[system].py --> onePlotAll.py --> figure.py --> onePlotAll.py --> plot.html
